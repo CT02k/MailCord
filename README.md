@@ -1,6 +1,8 @@
 # MailCord
 MailCord is a project that listens to emails using IMAP and sends all new emails to a Discord webhook.
 
+<img src="preview.gif"></img>
+
 ## Instructions
 
 1. Clone the repository:
